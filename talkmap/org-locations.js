@@ -15,8 +15,8 @@ var addressPoints = [
     -122.272863
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "Optimism Bias in Technology Foresight: A Stage-Wise Decomposition and Experimental Investigation of Delphi Applications.<br />The 45th International Symposium on Forecasting; Beijing, China",
+    40.190632,
+    116.412144
   ]
 ];
