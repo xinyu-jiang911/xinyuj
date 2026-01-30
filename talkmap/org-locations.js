@@ -10,9 +10,9 @@ var addressPoints = [
     -1.510477
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "The Impact of Advisor Credibility on Belief Updating in Dynamic Social Settings.<br />UCL Psychology in Partnership Showcase; London, UK",
+    51.5074456,
+    -0.1277653
   ],
   [
     "Optimism Bias in Technology Foresight: A Stage-Wise Decomposition and Experimental Investigation of Delphi Applications.<br />The 45th International Symposium on Forecasting; Beijing, China",
