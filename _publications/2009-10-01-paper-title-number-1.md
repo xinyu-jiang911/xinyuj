@@ -2,7 +2,7 @@
 title: "Cross-cultural differences in resolving sacrificial dilemmas: choices made and how they relate to judgments of their social acceptability"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2025-04-15-Jiang-Harvey
 excerpt: 'This paper is about understanding cultural differences in moral judgments and behaviours by investigating how British and Chinese people would respond to the trolley dilemmas.'
 date: 2025-04-15
 venue: 'Frontiers in Psychology'
