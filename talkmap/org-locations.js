@@ -5,9 +5,9 @@ var addressPoints = [
     -118.242766
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Biased or Not: The Impact of Statement Formation on Expert Judgment in Prospective Delphi Surveys<br />The 4th International Conference on Scenario Planning and Foresight; Coventry, UK",
+    52.4081812,
+    -1.510477
   ],
   [
     "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
